@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Sankalp, a passionate competitive programmer and Machine Learning enthusiast from India.<br>Currently pursuing CSE at KIIT Odisha.<br>🔭 I’m currently working on Anti Spoofing Attack Projectt.<br>🤝 I’m looking to collaborate on FullStack and AI/ML projects.<br>🌱 I’m currently learning MERN stack and AI/ML.
+I am Sankalp,competitive programmer and Machine Learning enthusiast from India.<br>🔭 I’m currently working on Anti Spoofing Attack Projectt.
 
 
 ## 🌐 Socials:
