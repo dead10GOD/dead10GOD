@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Sankalp,competitive programmer and Machine Learning enthusiast from India.<br>🔭 I’m currently working on Anti Spoofing Attack Projectt.
+I am Sankalp Prajapati
 
 
 ## 🌐 Socials:
